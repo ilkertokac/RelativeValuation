@@ -16,6 +16,7 @@ Kullanım Talimatları
 Gereksinimler
 
 Bu dosyanın çalıştırılabilmesi için herhangi bir özel gereksinim bulunmamaktadır.
+
 Katkı
 
 Herhangi bir geri bildiriminiz veya geliştirme öneriniz varsa, lütfen bu projeye katkıda bulunmaktan çekinmeyin.
